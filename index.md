@@ -6,7 +6,7 @@ Our algorithms are open source so anyone can play with them, always looking to c
 
 ### Our Solutions
 
-Currently we are building solutions for the fintech, biotech, and computer security.
+Currently we are building solutions for the fintech, biotech, atmospheric science, and computer security.
 
 In the past we have developed open source algorithms for qsharp, scipy, and REALOP.
 
