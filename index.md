@@ -1,4 +1,5 @@
-## Who are we?
+## Who are we? 
+Delivering the quantum advantage with creativity, technicality, and ease of use!    
 
 We provide elegant solutions to industries hardest questions. Utilzing quantum computing, ML, and optimization we can enchance any industry with a costumer centric approach. 
 
