@@ -12,7 +12,11 @@ In the past we have developed open source algorithms for qsharp, scipy, and REAL
 
 Stimulated by the hardest questions and driven to give back to our community.
 
-### Contact Us
+### Our Team
+
+### Founder
+Mridul Sarkar
+Mridul has had experience in developing software for CubeSATs, tech companies, and open source projects. He has proven his ability to lead in the space industry and managing his own end to end development of a novel library for quantum computers. Studying mathematics he has a strong technical background combined with an affinity for focusing on what humans need versus want.
 
 email
 github
