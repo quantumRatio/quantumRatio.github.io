@@ -1,12 +1,12 @@
 ## Who are we?
 
-We provide elegant solutions to industries hardest questions. Utilzing quantum computing, AI, and optimization we can enchance any industry with our solutions developed in house and for our clients. 
+We provide elegant solutions to industries hardest questions. Utilzing quantum computing, ML, and optimization we can enchance any industry with a costumer centric approach. 
 
 Our algorithms are open source so anyone can play with them, always looking to collaborate with anyone who has passion to code.
 
 ### Our Solutions
 
-Currently we are building solutions for the fintech, biotech, atmospheric science, and computer security.
+Currently we are building solutions for fintech, biotech, atmospheric science, and computer security.
 
 In the past we have developed open source algorithms for qsharp, scipy, and REALOP.
 
