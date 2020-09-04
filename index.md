@@ -1,7 +1,7 @@
 ## Who are we? 
 Delivering the quantum advantage with creativity, technicality, and ease of use!    
 
-We provide elegant solutions to industries hardest problems. Utilzing quantum computing, ML, and optimization we can enhance any industry with a customer centric approach. 
+We provide elegant solutions to industries hardest problems. Utilizing quantum computing, ML, and optimization we can enhance any industry with a customer centric approach. 
 
 Our algorithms are open source so anyone can play with them, always looking to collaborate with anyone who has passion to code.
 
