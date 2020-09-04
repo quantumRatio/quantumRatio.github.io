@@ -20,4 +20,4 @@ Stimulated by the hardest questions and driven to give back to our community.
 
 ### CTO
 #### Zach Harvey
- Zach has years of experience in many different languages. He has worked with several companies in order to deliver software solutions. In addition, Zach has had experience with creating his own servers to host from than 100,000 users. He enjoys understanding a client's needs and delivering expectional code.   [github](https://github.com/Unknowncall)
+ Zach has years of experience in many different programming languages. He is a driven and robust coder who enjoys code sprints on rainy days. He has worked with several companies in order to deliver software solutions. In addition, Zach has had experience with creating his own servers to host more than 100,000 users. He enjoys understanding a client's needs and delivering expectional code.   [github](https://github.com/Unknowncall)
